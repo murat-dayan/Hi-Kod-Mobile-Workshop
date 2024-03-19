@@ -1,4 +1,4 @@
-<h1 align="center" id="title">Hi-Kod Bootcamp Homeworkd</h1>
+<h1 align="center" id="title">Hi-Kod Bootcamp Homework</h1>
 
 <p id="description">Flutter and dart homework I did at hi-kod bootcamp</p>
 
